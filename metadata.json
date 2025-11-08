@@ -1,0 +1,7 @@
+{
+  "name": "Hackathon Idea Spark",
+  "description": "An AI-powered assistant to generate creative project ideas based on hackathon rules. Paste the hackathon description and let Gemini spark your next winning idea.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
